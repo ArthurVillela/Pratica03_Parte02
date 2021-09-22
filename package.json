@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurVillela/Pratica03_Parte02.git"
+  },
+  "keywords": [
+    "teste",
+    "aula",
+    "aplicacao"
+  ],
+  "author": "arthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurVillela/Pratica03_Parte02/issues"
+  },
+  "homepage": "https://github.com/ArthurVillela/Pratica03_Parte02#readme"
+}
